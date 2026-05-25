@@ -1,5 +1,5 @@
-function test() {
-    console.log("Contributirrgon working");
-}
+let str = "kajal gurjar";
 
-test();
+let count =str.match(/[aeiou]/gi).length;
+
+console.log(count);
