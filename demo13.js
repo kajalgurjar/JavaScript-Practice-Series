@@ -10,4 +10,4 @@ function debounce(func, delay){
          func();
       }, delay);
    }
-}
+} 
